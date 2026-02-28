@@ -1,3 +1,15 @@
+header {
+    background-color: #03a3df;
+    color: white;
+    padding: 20px;
+    text-align: right;
+    height: 75px;
+}
+
+.logo-img {
+    float: left;
+}
+
 h3 {
     color: white;
 }
