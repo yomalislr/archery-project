@@ -1,0 +1,47 @@
+* {
+    font-family: "Arial Bold", Arial;;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #03a3df;
+    color: white;
+    padding: 20px;
+    text-align: right;
+    height: 75px;
+}
+
+.logo-img {
+    float: left;
+}
+
+h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+h3 {
+    color: white;
+    padding: 20px;
+}
+
+p {
+    padding: 20px;
+}
+
+.highlight {
+    background-color:  #ecb722;
+}
+
+.call-out {
+    text-align: center;
+    color: #03a3df;
+    font-size: 200%;
+    margin-bottom: 40px;
+}
+
+footer {
+    padding-left: 75px;
+    padding-top: 75px;
+}
