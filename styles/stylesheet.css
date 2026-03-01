@@ -41,6 +41,11 @@ p {
     margin-bottom: 40px;
 }
 
+section {
+    padding-left: 90px;
+    padding-right: 90px;    
+}
+
 footer {
     padding-left: 75px;
     padding-top: 75px;
