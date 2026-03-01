@@ -1,0 +1,94 @@
+* {
+    font-family: "Arial Bold", Arial;;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #03a3df;
+    color: white;
+    padding: 20px;
+    text-align: right;
+    height: 75px;
+}
+
+.logo-img {
+    float: left;
+}
+
+h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+h3 {
+    color: white;
+    padding: 20px;
+}
+
+.call-out {
+    text-align: center;
+    color: #03a3df;
+    font-size: 150%;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width: 800px;
+}
+
+.top-container {
+    display: flex;
+    justify-content: center;
+}
+
+.services-container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: #044281;
+    width: 30%;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.all-caps {
+    text-transform: uppercase;
+    color: #ecb722;
+    font-size: 75%;
+}
+
+.class-title{
+    text-transform: uppercase;
+    color: #ecb722;
+    font-size: 110%;
+    text-decoration: underline;
+}
+
+.class-container {
+    margin-bottom: 30px;
+}
+
+.container-title {
+    text-transform: uppercase;
+    color: #ecb722;
+    
+}
+
+
+p {
+    padding: 5px;
+    color: white;
+}
+
+h4 {
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    font-size: 150%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+footer {
+    padding-left: 75px;
+    padding-top: 75px;
+}
