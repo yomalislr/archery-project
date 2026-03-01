@@ -44,4 +44,7 @@ p {
 footer {
     padding-left: 75px;
     padding-top: 75px;
+    font-size: 125%;
+    font-weight: bold;
+    color: white;
 }
