@@ -46,6 +46,12 @@ section {
     padding-right: 90px;    
 }
 
+video {
+    padding-left: 100px;
+    padding-right: 100px; 
+    padding-bottom: 40px;
+}
+
 footer {
     padding-left: 75px;
     padding-top: 75px;
