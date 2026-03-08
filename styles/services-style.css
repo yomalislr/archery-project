@@ -18,7 +18,11 @@ header {
 
 h1 {
     text-align: center;
-    padding: 30px;
+    width: 80%;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 h3 {
@@ -30,24 +34,6 @@ h3 {
     text-align: center;
     color: #03a3df;
     font-size: 150%;
-    margin-bottom: 40px;
-    margin-top: 40px;
-    width: 800px;
-}
-
-.top-container {
-    display: flex;
-    justify-content: center;
-}
-
-.services-container {
-    display: flex;
-    flex-direction: column;
-    padding: 20px;
-    background-color: #044281;
-    width: 30%;
-    margin-left: 40px;
-    margin-right: 40px;
 }
 
 .all-caps {
@@ -63,8 +49,39 @@ h3 {
     text-decoration: underline;
 }
 
+.top-container {
+    align-items: center;
+}
+
+.entire-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.services-container {
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    background-color: #044281;
+    width: 30%;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+
 .class-container {
-    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 40px;
+}
+
+.lessons-container {
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    margin: 40px;
 }
 
 .container-title {
