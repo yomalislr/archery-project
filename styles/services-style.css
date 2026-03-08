@@ -57,6 +57,9 @@ h3 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 50px;
 }
 
 .services-container {
@@ -80,7 +83,7 @@ h3 {
 .lessons-container {
     display: flex;
     flex-direction: column;
-    padding: 40px;
+    padding: 10px;
     margin: 40px;
 }
 
@@ -96,7 +99,7 @@ p {
     color: white;
 }
 
-h4 {
+h2 {
     text-transform: uppercase;
     text-align: center;
     color: white;
