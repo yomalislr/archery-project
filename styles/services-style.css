@@ -7,9 +7,14 @@
 header {
     background-color: #03a3df;
     color: white;
-    padding: 20px;
+    padding: 1.5rem;
     text-align: right;
-    height: 75px;
+    height: 5rem;
+}
+
+nav a {
+    padding: .5rem;
+    margin: .5rem;
 }
 
 .logo-img {
@@ -19,19 +24,18 @@ header {
 h1 {
     text-align: center;
     width: 80%;
-    padding-right: 200px;
-    padding-left: 200px;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-right: 6rem;
+    padding-left: 6rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
 }
 
 h3 {
     color: white;
-    padding: 20px;
+    padding: 1rem;
 }
 
 .call-out {
-    text-align: center;
     color: #03a3df;
     font-size: 150%;
 }
@@ -49,42 +53,38 @@ h3 {
     text-decoration: underline;
 }
 
-.top-container {
-    align-items: center;
-}
-
 .entire-container {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    padding-left: 50px;
-    padding-right: 50px;
-    margin-left: 50px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-left: 3rem;
 }
 
 .services-container {
     display: flex;
     flex-direction: column;
-    padding: 40px;
+    padding: 2.5rem;
     background-color: #044281;
     width: 30%;
-    margin-left: 40px;
-    margin-right: 40px;
-    margin-bottom: 40px;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+    margin-bottom: 2.5rem;
 }
 
 .class-container {
     display: flex;
     flex-direction: column;
-    padding: 10px;
-    margin: 40px;
+    padding: .5rem;
+    margin: 2.5rem;
 }
 
 .lessons-container {
     display: flex;
     flex-direction: column;
-    padding: 10px;
-    margin: 40px;
+    padding: .5rem;
+    margin: 2.5rem;
 }
 
 .container-title {
@@ -95,7 +95,7 @@ h3 {
 
 
 p {
-    padding: 5px;
+    padding: .5rem;
     color: white;
 }
 
@@ -104,11 +104,11 @@ h2 {
     text-align: center;
     color: white;
     font-size: 150%;
-    margin-bottom: 20px;
-    margin-top: 20px;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
 }
 
 footer {
-    padding-left: 75px;
-    padding-top: 75px;
+    padding-left: 5rem;
+    padding-top: 5rem;
 }
