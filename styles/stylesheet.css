@@ -7,9 +7,9 @@
 header {
     background-color: #03a3df;
     color: white;
-    padding: 20px;
+    padding: 1.5rem;
     text-align: right;
-    height: 75px;
+    height: 5rem;
 }
 
 .logo-img {
@@ -18,16 +18,16 @@ header {
 
 h1 {
     text-align: center;
-    padding: 30px;
+    padding: 2rem;
 }
 
 h3 {
     color: white;
-    padding: 20px;
+    padding: 1.5rem;
 }
 
 p {
-    padding: 20px;
+    padding: 1.5rem;
 }
 
 .highlight {
@@ -38,23 +38,23 @@ p {
     text-align: center;
     color: #03a3df;
     font-size: 200%;
-    margin-bottom: 40px;
+    margin-bottom: 2.5rem;
 }
 
 section {
-    padding-left: 90px;
-    padding-right: 90px;    
+    padding-left: 5.5rem;
+    padding-right: 5.5rem;    
 }
 
 video {
-    padding-left: 100px;
-    padding-right: 100px; 
-    padding-bottom: 40px;
+    padding-left: 5.5rem;
+    padding-right: 5.5rem; 
+    padding-bottom: 2.5rem;
 }
 
 footer {
-    padding-left: 75px;
-    padding-top: 75px;
+    padding-left: 5rem;
+    padding-top: 5rem;
     font-size: 125%;
     font-weight: bold;
     color: white;
